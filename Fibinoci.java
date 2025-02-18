@@ -9,6 +9,7 @@ class Fibinoci
 			  a=b;
 			  b=c;		
 		   System.out.println(c);
+		   //This is Fibonacci code..
 		
 		}
 		
